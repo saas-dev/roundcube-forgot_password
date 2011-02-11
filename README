@@ -2,5 +2,5 @@ This plugin sends a link to the user's alternative email, than he can generate a
 
 This plugin needs the table forgot_password, which script is in SQL folder.
 
-This plugin deppends on plugin password. In main.in.php, the plugin password must be before plugin forgot_password, because in forgot_password, the plugin password is intancied
+This plugin depends on the plugin password. In main.in.php, the plugin password must be before plugin forgot_password, because in forgot_password, the plugin password is called.
 
