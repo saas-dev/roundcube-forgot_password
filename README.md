@@ -1,3 +1,5 @@
+**This project is not maintained anymore, use at your own risk**
+
 This plugin sends a link to the user's alternative email, than he can generate a new password.
 
 This plugin needs the table forgot_password, which script is in SQL folder.
